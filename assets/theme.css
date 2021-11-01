@@ -1,0 +1,11 @@
+#bground{
+    cursor: url(img/zoom.png) 15 15, auto;
+    height: 96vh;
+}
+
+.obj{
+    height: 140px;
+    width: auto; 
+    position: absolute; 
+    display: none;
+}
